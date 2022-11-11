@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## Please do npm install on both react app and backend part before start 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
