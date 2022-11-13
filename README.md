@@ -8,11 +8,33 @@ For running the application on the localmachine, download the zip file of the co
 
 Make sure you have installed node js and mongoDB on your local machine
 
-as your open the folder structure run following command (Make sure that port 5000 would be empty).
+Now run the following command to install node modules in react app
 
 ```bash
-   node backend/app.js
+   npm install
 ```
+
+Run the same command for installing node modules for backend part 
+
+```bash
+ cd backend 
+```
+```bash
+npm install 
+```
+
+Now run following command (Make sure that port 5000 would be empty).
+
+```bash
+   node app.js
+```
+
+Now come back in the react app 
+
+```bash
+cd .. 
+```
+
 
 Now run the react app by using following command 
 
