@@ -2,7 +2,7 @@
 ## Guide for the starting app 
 
 This is project is created using the React js, Node js and mondoDB as database. 
-## Available Scripts
+## Let's start
 
 For running the application on the localmachine, download the zip file of the code and open it in the code editor
 
@@ -11,7 +11,7 @@ Make sure you have installed node js and mongoDB on your local machine
 as your open the folder structure run following command (Make sure that port 5000 would be empty).
 
 ```bash
-  backend/node app.js
+   node backend/app.js
 ```
 
 Now run the react app by using following command 
