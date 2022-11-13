@@ -29,12 +29,7 @@ Now run following command (Make sure that port 5000 would be empty).
    node app.js
 ```
 
-Now come back in the react app 
-
-```bash
-cd .. 
-```
-
+Now start new terminal and make sure that you are in root directory of react app
 
 Now run the react app by using following command 
 
