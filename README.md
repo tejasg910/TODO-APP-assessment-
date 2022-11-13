@@ -10,11 +10,15 @@ Make sure you have installed node js and mongoDB on your local machine
 
 as your open the folder structure run following command (Make sure that port 5000 would be empty).
 
-### `/backend/node app.js`
+```bash
+  backend/node app.js
+```
 
 Now run the react app by using following command 
 
-### `npm test`
+```bash
+  npm start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
